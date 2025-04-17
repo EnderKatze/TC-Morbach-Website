@@ -12,7 +12,7 @@
   .hero {
     font-size: 4rem;
     height: 6em;
-    background-image: url('website/resources/images/image-tennisCourt.jpg'); /* Replace with your image path */
+    background-image: url('docs/resources/images/image-tennisCourt.jpg'); /* Replace with your image path */
     background-size: cover;
     background-position: bottom;
     background-attachment: fixed;
